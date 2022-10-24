@@ -8,6 +8,8 @@ In the project, I recovered the camera poses with two different approaches:
 
 After retrieving the 3D relationship between the camera and world, arbitrary objects were placed in the scene.
 
+### Input Scene ###
 ![Input scene](https://github.com/ayushgoel24/AugmentedReality/blob/master/input_image.jpg?raw=true)
 
-![Output scene](https://github.com/ayushgoel24/AugmentedReality/blob/master/output_scene.gif?raw=true)
+### Output Scene ###
+![Output scene](https://github.com/ayushgoel24/AugmentedReality/blob/master/output_scene.gif)
